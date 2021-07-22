@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ergcyber
+- 👀 I’m interested in threat hunting and detection techniques
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on security professionals and share knowledge
